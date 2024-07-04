@@ -11,7 +11,7 @@ function App2() {
         <section1 className="col-4 bg-dark text-white">
           <img src="CDE_6385.jpg" className="ml-5 mt-3 rounded-circle mb-3 border border-white border-5" alt="PD" width="200" height="200" />
           
-          <div className="mb-4">
+          <div className="ml-1 mb-4">
             <h5 className="font-weight-bold">CONTACT</h5>
             <hr className="hrw" />
             <p className="text-left">
@@ -31,7 +31,7 @@ function App2() {
             </p>
           </div>
           
-          <div className="mb-4">
+          <div className="ml-1 mb-4">
             <h5 className="font-weight-bold">TECHNICAL SKILLS</h5>
             <hr className="hrw" />
             <ul>
@@ -45,7 +45,7 @@ function App2() {
             </ul>
           </div>
           
-          <div className="mb-4">
+          <div className="ml-1 mb-4">
             <h5 className="font-weight-bold">PERSONAL SKILLS</h5>
             <hr className="hrw" />
             <ul>
@@ -56,7 +56,7 @@ function App2() {
             </ul>
           </div>
           
-          <div className="mb-4">
+          <div className="ml-1 mb-4">
             <h5 className="font-weight-bold">LANGUAGE</h5>
             <hr className="hrw" />
             <ul>
@@ -65,7 +65,7 @@ function App2() {
             </ul>
           </div>
           
-          <div className="mb-4">
+          <div className="ml-1 mb-4">
             <h5 className="font-weight-bold">REFEREES</h5>
             <hr className="hrw" />
             <ul>
